@@ -1,0 +1,13 @@
+﻿{
+    "ItemType": "Department",
+    "Details": [
+        {
+		 "DepartmentID": "IT",
+            "DepartmentName": "IT"
+        },
+        {
+		 "DepartmentID": "IT",
+            "DepartmentName": "Business"
+        }
+    ]
+}
